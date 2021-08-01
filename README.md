@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [x] Improved the spacing of the item list so that the text are visible when using keyboard and there is no error on constraint layout
 
 ## Video Walkthrough
 
@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had to try to use android studio without emulator so I did it by connecting usb cable into my android device to see whether the app functions properly or not. I had to ensure that the texts are visible whenever keyboard is used for typing. 
 
 ## License
 
